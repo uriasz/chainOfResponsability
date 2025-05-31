@@ -1,4 +1,7 @@
 
+![8968cd0846f70f3d40de85546dbea47c-ezgif com-resize](https://github.com/user-attachments/assets/d24259e1-9a53-4826-adf5-2ceb0bbbefcb)
+
+
 # Sistema RPG com Padrão Chain of Responsibility
 
 ## Visão Geral
